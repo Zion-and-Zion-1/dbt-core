@@ -46,7 +46,7 @@ setup(
         "console_scripts": ["dbt = dbt.main:main"],
     },
     install_requires=[
-        "Jinja2==3.1.2",
+        "Jinja2==3.1.3",
         "agate>=1.6,<1.7.1",
         "betterproto==1.2.5",
         "click>=7.0,<9",
